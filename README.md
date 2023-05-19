@@ -1,1 +1,1 @@
-https://klaudiakrekora.github.io/goit-js-hw-10/
+ https://klaudiakrekora.github.io/country-finder/
